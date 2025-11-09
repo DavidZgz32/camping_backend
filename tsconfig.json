@@ -14,7 +14,7 @@
     "noImplicitThis": true,
     "outDir": "dist",
     "rootDir": "."
-  },
+  }, 
   "include": [
     // Include root files
     "./",
