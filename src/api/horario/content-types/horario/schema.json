@@ -1,0 +1,14 @@
+{
+  "kind": "collectionType",
+  "collectionName": "horarios",
+  "info": {
+    "singularName": "horario",
+    "pluralName": "horarios",
+    "displayName": "Horarios",
+    "description": "Configuración horaria del camping (sin campos aún)."
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {}
+}

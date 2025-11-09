@@ -1,0 +1,14 @@
+{
+  "kind": "collectionType",
+  "collectionName": "actividades",
+  "info": {
+    "singularName": "actividad",
+    "pluralName": "actividades",
+    "displayName": "Actividades",
+    "description": "Actividades programadas en el camping (estructura pendiente)."
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {}
+}

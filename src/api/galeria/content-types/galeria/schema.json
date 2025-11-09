@@ -1,0 +1,14 @@
+{
+  "kind": "collectionType",
+  "collectionName": "galerias",
+  "info": {
+    "singularName": "galeria",
+    "pluralName": "galerias",
+    "displayName": "Galería",
+    "description": "Galería multimedia del camping (a definir)."
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {}
+}

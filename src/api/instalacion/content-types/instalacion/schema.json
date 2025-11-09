@@ -1,0 +1,14 @@
+{
+  "kind": "collectionType",
+  "collectionName": "instalaciones",
+  "info": {
+    "singularName": "instalacion",
+    "pluralName": "instalaciones",
+    "displayName": "Instalaciones",
+    "description": "Instalaciones del camping (pendiente de definir campos)."
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {}
+}
