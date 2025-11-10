@@ -10,5 +10,13 @@
   "options": {
     "draftAndPublish": true
   },
-  "attributes": {}
+  "pluginOptions": {},
+  "attributes": {
+    "Testing": {
+      "type": "string"
+    },
+    "Testingfield": {
+      "type": "string"
+    }
+  }
 }
